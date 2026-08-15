@@ -10,7 +10,7 @@ trên corpus **Northstar University Student Services**, rồi phân tích kết 
 > sinh câu trả lời; `template.py` là **evaluation engine** chấm các câu trả lời
 > đó. Hai phần có vai trò khác nhau.
 
-Hướng dẫn thao tác đầy đủ nằm trong [`guide_lab.md`](guide_lab.md).
+Hướng dẫn thao tác đầy đủ nằm trong [`guide_lab.md`](guide_lab.md)
 
 ---
 
